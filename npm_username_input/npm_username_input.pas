@@ -48,5 +48,6 @@ begin
 
     Writeln ('__________________________________');
 
+    Readln;
     Exit; // Close Terminal/Console
 end.
