@@ -18,7 +18,7 @@ uses crt;
 Var
     npm     : string;
     kelas   : string;
-    nama   : string;
+    nama    : string;
 
 (* Main Function *)
 
