@@ -1,2 +1,2 @@
 ## Latihan Pascal ☠️
-* cuma untuk kepentingan kuliah saja, nothing special.
+* patir. cuma untuk kepentingan kuliah saja.
