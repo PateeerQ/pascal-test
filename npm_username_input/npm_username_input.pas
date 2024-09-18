@@ -18,7 +18,7 @@ uses crt;
 Var
     npm     : string;
     kelas   : string;
-    nama_   : string;
+    nama   : string;
 
 (* Main Function *)
 
@@ -34,7 +34,7 @@ begin
     Readln (npm);
 
     Write ('Nama: ');
-    Readln (nama_);
+    Readln (nama);
     
     Write ('Kelas: ');
     Readln (kelas);
@@ -43,7 +43,7 @@ begin
     Writeln ('__________________________________');
     
     Writeln ('NPM Anda: ', npm);
-    Writeln ('Nama Anda: ', nama_);
+    Writeln ('Nama Anda: ', nama);
     Writeln ('Kelas Anda: ', kelas);
 
     Writeln ('__________________________________');
