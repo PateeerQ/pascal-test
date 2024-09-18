@@ -3,7 +3,7 @@
 *       Latihan
 *       NPM & Username Input (pascal)
 *       Updated 
-*            on 12/09/2024
+*            on 18/09/2024
 *
 *)
 
@@ -16,6 +16,7 @@ uses crt;
 
 Var
     npm     : string;
+    kelas   : string;
     nama_   : string;
 
 (* Main Function *)
@@ -33,12 +34,16 @@ begin
 
     Write ('Nama: ');
     Readln (nama_);
+    
+    Write ('Kelas: ');
+    Readln (kelas);
     Writeln ('');
 
     Writeln ('__________________________________');
     
     Writeln ('NPM Anda: ', npm);
     Writeln ('Nama Anda: ', nama_);
+    Writeln ('Kelas Anda: ', kelas);
 
     Writeln ('__________________________________');
 
