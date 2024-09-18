@@ -2,6 +2,7 @@
 *
 *       Latihan
 *       NPM & Username Input (pascal)
+*       Written by Patir 12/09/2024
 *       Updated 
 *            on 18/09/2024
 *
