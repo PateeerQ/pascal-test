@@ -16,14 +16,16 @@ uses crt;
 
 Var
     npm     : string;
-    nama_   : string;
+    nama    : string;
+    kelas   : string;
 
 (* Main Function *)
 
 begin
     // Predefine
-    npm := 'Masukkan NPM disini';
-    nama_ := 'Masukkan Nama anda disini';
+    npm := 'Masukkan NPM anda disini';
+    nama := 'Masukkan Nama anda disini';
+    kelas := 'Masukkan Kelas anda disini';
 
     clrscr; // Clear Screen
     
@@ -33,7 +35,8 @@ begin
     Writeln ('');
     
     Writeln ('NPM Anda: ', npm);
-    Writeln ('Nama Anda: ', nama_);
+    Writeln ('Nama Anda: ', nama);
+    Writeln ('Kelas Anda: ', kelss);
 
     Writeln ('__________________________________');
 
