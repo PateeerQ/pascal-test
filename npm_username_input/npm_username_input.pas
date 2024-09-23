@@ -11,7 +11,7 @@
 
 (* Headers *)
 
-program input_test;
+program input_test_final;
 uses crt;
 
 (* Variables *)
