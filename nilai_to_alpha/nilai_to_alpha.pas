@@ -37,25 +37,22 @@ begin
     if (nilai >= 0) then
       begin
         alpha := 'E';
-    if (nilai >= 40) then
-      begin
-        alpha := 'D';
-  
-    if (nilai >= 60) then
-      begin
-        alpha := 'C';
-      
-    if (nilai >= 70) then
-      begin
-        alpha := 'B';
-      
-    if (nilai >= 90) then
-      begin
-        alpha := 'A';
-      end;
-      end;
-      end;
-      end;
+        if (nilai >= 40) then
+          begin
+            alpha := 'D';
+            if (nilai >= 60) then
+              begin
+                alpha := 'C'; 
+                if (nilai >= 70) then
+                  begin
+                    alpha := 'B';   
+                    if (nilai >= 90) then
+                      begin
+                        alpha := 'A';
+                      end;
+                  end;
+              end;
+          end;
       end;
 
     Writeln ('Nilai anda: ', nilai, ' Golongan: ', alpha);
