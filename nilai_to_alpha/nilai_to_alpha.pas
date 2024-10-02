@@ -3,7 +3,7 @@
 *       Latihan
 *       Nilai (pascal)
 *       Updated 
-*            on 2/09/2024
+*            on 02/10/2024
 *
 *)
 
@@ -23,7 +23,7 @@ begin
     clrscr;
 
     Writeln ('__________________________________');
-    Writeln ('Latihan (Nilai to Alphabet) 24/09/2024');
+    Writeln ('Latihan (Nilai to Alphabet) 02/10/2024');
     Writeln ('__________________________________');
     Writeln ('');
 
