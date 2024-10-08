@@ -34,7 +34,7 @@ begin
     if (tahun MOD 4 = 0) then
         Writeln ('Tahun ', tahun, ' merupakan tahun kabisat')
     else
-        Writeln ('Tahun ', tahun, ' bukan merupakan tahun kabisat')
+        Writeln ('Tahun ', tahun, ' bukan merupakan tahun kabisat');
 
     Writeln ('__________________________________');
 end.
