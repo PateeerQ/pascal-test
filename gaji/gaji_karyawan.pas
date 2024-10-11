@@ -1,6 +1,8 @@
 (*
 
     Gaji Karayawan
+    Written 
+        by Patir 09/10/2024
     Last Updated
         09/10/2024
 
