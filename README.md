@@ -1,2 +1,2 @@
 ## Pascal
-* patir. cuma untuk kepentingan kuliah saja.
+* cuma kalau ada tugas kuliah saja.
