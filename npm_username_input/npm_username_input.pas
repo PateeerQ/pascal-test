@@ -14,6 +14,7 @@
 program input_test_final;
 uses crt;
 
+
 (* Variables *)
 
 Var
