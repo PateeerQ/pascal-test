@@ -1,2 +1,2 @@
 ## Pascal
-* cuma kalau ada tugas kuliah saja.
+* cuma kalau ada tugas kuliah aja
