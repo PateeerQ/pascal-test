@@ -1,7 +1,7 @@
 (*
 *
 *       Latihan
-*       Tahun Kabisat (pascal)
+*            Tahun Kabisat (pascal)
 *       Updated 
 *            on 02/10/2024
 *
