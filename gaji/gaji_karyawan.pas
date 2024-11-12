@@ -24,6 +24,7 @@ begin
 
     Write('Masukkan Nama: ');
     Readln(nama);
+    
     Write('Masukkan Jabatan: ');
     Readln(jabatan);
 
