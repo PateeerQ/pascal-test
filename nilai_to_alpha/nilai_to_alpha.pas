@@ -1,7 +1,7 @@
 (*
 *
 *       Latihan
-*       Nilai (pascal)
+*       Nilai to Alphabet (pascal)
 *       Updated 
 *            on 02/10/2024
 *
